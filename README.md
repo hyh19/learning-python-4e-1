@@ -1,1 +1,1 @@
-# learning-python-4e
+# 《Python 学习手册（第 4 版）》配套代码
